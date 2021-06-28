@@ -1,6 +1,21 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+with react table library component. 
+
+# React Table Library
+
+Working on web applications having to build a table to visualize data is inevitable.
+
+Tables or grids are the best way to display large amount of data and rolling your own table can be complex so a component library can save time.
+
+React table is a collection of hooks for building powerful tables and data grid experiences,
+these hooks are lightweight composible and extensible but they do not
+render any markup or styles 
+
+Noteworthy point is react table doesn't render or supply any actual ui
+elements as it's a table utility and not a table component, allowing a developer to integrate the table
+data into any existing theme ui library or table markup.
 
 ## Available Scripts
 
